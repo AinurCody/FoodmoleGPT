@@ -1,3 +1,7 @@
+[English](DATA_README_EN.md) | **中文**
+
+---
+
 # FoodmoleGPT — PMC 食品科学语料数据文档
 
 ## 1. 数据概览
