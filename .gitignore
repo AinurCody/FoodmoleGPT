@@ -1,0 +1,26 @@
+# =========== 1. 根目录白名单策略 ===========
+# 忽略根目录下的所有文件 (包括你的 PPT, 图片, 杂物)
+/*
+
+# 但是！不要忽略 .gitignore 及其自身 (必须放行)
+!/.gitignore
+
+# 但是！不要忽略 PubMed 这个文件夹 (关键改动)
+!/PubMed/
+
+# =========== 2. PubMed 文件夹内部黑名单 ===========
+# 虽然放行了 PubMed 文件夹，但里面的某些文件要再次拉黑
+
+# 屏蔽真实的隐私配置 (只传 template)
+/PubMed/config.py
+
+# 屏蔽数据目录
+/PubMed/data/
+
+# 屏蔽缓存和日志
+/PubMed/__pycache__/
+/PubMed/logs/
+/PubMed/download.log
+/PubMed/download_progress.json
+*.pyc
+.DS_Store
