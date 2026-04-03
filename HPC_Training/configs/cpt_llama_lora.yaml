@@ -1,0 +1,35 @@
+### Model
+model_name_or_path: /scratch/$USER/huggingface_cache/hub/models--meta-llama--Meta-Llama-3.1-8B/snapshots/d04e592bb4f6aa9cfee91e2e20afa771667e1d4b
+
+### Method
+stage: pt
+do_train: true
+finetuning_type: lora
+lora_rank: 64
+lora_alpha: 128
+lora_target: all
+
+### Dataset
+dataset_dir: /home/svu/$USER/foodmole/configs
+dataset: food_corpus_cpt
+cutoff_len: 2048
+overwrite_cache: true
+preprocessing_num_workers: 8
+
+### Output
+output_dir: /scratch/$USER/foodmole_workspace/checkpoints/llama3-8b-cpt
+logging_dir: /scratch/$USER/foodmole_workspace/logs/llama3-8b-cpt
+logging_steps: 100
+save_steps: 1000
+plot_loss: true
+overwrite_output_dir: true
+
+### Train
+per_device_train_batch_size: 2
+gradient_accumulation_steps: 8
+learning_rate: 5.0e-5
+num_train_epochs: 1.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.01
+bf16: true
+ddp_timeout: 180000000

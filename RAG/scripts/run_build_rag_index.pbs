@@ -1,0 +1,40 @@
+#!/bin/bash
+#PBS -P CFP03-CF-011
+#PBS -j oe
+#PBS -k oed
+#PBS -N build_rag_index
+#PBS -q auto
+#PBS -l select=1:ncpus=8:ngpus=1:mem=64gb
+#PBS -l walltime=06:00:00
+
+cd $PBS_O_WORKDIR
+
+IMAGE="/app1/common/singularity-img/hopper/pytorch/pytorch_26.01-py3.sif"
+VENV="/scratch/$USER/virtualenvs/foodmole"
+module load singularity
+
+singularity exec --nv -e $IMAGE bash << EOF > stdout.$PBS_JOBID 2> stderr.$PBS_JOBID
+set -e
+
+export HF_HOME=/scratch/$USER/huggingface_cache
+export XDG_CACHE_HOME=/scratch/$USER/huggingface_cache
+export TRANSFORMERS_CACHE=/scratch/$USER/huggingface_cache/hub
+
+# Ensure venv packages are found
+export PATH="${VENV}/bin:\$PATH"
+export PYTHONPATH="${VENV}/lib/python3.12/site-packages:\$PYTHONPATH"
+
+echo "=== Environment ==="
+echo "Python: \$(which python)"
+python --version
+nvidia-smi
+echo ""
+
+cd /nfs/home/svu/$USER/foodmole/scripts
+
+# Build full index from CPT corpus
+${VENV}/bin/python build_rag_index.py \
+    --batch-size 512
+
+echo "=== DONE ==="
+EOF

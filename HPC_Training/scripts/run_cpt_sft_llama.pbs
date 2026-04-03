@@ -1,0 +1,27 @@
+#!/bin/bash
+#PBS -P CFP03-CF-011
+#PBS -j oe
+#PBS -k oed
+#PBS -N cpt_sft_llama
+#PBS -q auto
+#PBS -l select=1:ncpus=48:ngpus=4:mem=256gb:gpu_model=H200
+#PBS -l walltime=06:00:00
+
+cd $PBS_O_WORKDIR
+
+IMAGE="/app1/common/singularity-img/hopper/pytorch/pytorch_26.01-py3.sif"
+VENV="/scratch/$USER/virtualenvs/foodmole"
+HF_CACHE="/scratch/$USER/huggingface_cache"
+module load singularity
+
+singularity exec -e "$IMAGE" bash << EOF > stdout.$PBS_JOBID 2> stderr.$PBS_JOBID
+set -e
+export HF_HOME=$HF_CACHE
+export XDG_CACHE_HOME=$HF_CACHE
+export TRANSFORMERS_CACHE=$HF_CACHE/hub
+export PYTHONPATH=/scratch/$USER/LLaMA-Factory/src:$VENV/lib/python3.12/site-packages:$PYTHONPATH
+export MASTER_PORT=29505
+
+$VENV/bin/llamafactory-cli train \
+    /home/svu/$USER/foodmole/configs/cpt_sft_llama_lora.yaml
+EOF

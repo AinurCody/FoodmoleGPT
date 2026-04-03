@@ -1,0 +1,26 @@
+{
+  "foodearth_mini": {
+    "file_name": "/scratch/$USER/foodmole_workspace/data/FoodEarth/FoodEarth-Complete/FoodEarth-mini.json",
+    "formatting": "alpaca",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "foodmole_sft": {
+    "file_name": "/scratch/$USER/foodmole_workspace/data/foodmole_sft_train.jsonl",
+    "formatting": "alpaca",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "food_corpus_cpt": {
+    "file_name": "/scratch/$USER/foodmole_workspace/data/cpt_corpus_merged.jsonl",
+    "columns": {
+      "prompt": "text"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 # ============================================
 # FoodmoleGPT — Whitelist .gitignore
-# Only tracked: CPT_dataset, SFT_dataset, RAG, LLM_BO
+# Tracked: CPT_dataset, SFT_dataset, RAG, LLM_BO, HPC_Training, Evaluation
 # ============================================
 
 # Ignore everything at root level
@@ -16,6 +16,8 @@
 !/SFT_dataset/
 !/RAG/
 !/LLM_BO/
+!/HPC_Training/
+!/Evaluation/
 
 # ============================================
 # Global exclusions (apply within all tracked dirs)
