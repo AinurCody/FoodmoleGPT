@@ -1,0 +1,408 @@
+{
+  "scraped_at": "2026-03-25T02:38:38.220247",
+  "total_pages": 43,
+  "total_chars": 674302,
+  "by_agency": {
+    "FDA": {
+      "pages": 19,
+      "chars": 494215
+    },
+    "EFSA": {
+      "pages": 15,
+      "chars": 178650
+    },
+    "SFA": {
+      "pages": 9,
+      "chars": 1437
+    }
+  },
+  "documents": [
+    {
+      "agency": "FDA",
+      "category": "FSMA",
+      "url": "https://www.fda.gov/food/food-safety-modernization-act-fsma/full-text-food-safety-modernization-act-fsma",
+      "title": "Full Text of the Food Safety Modernization Act (FSMA) | FDA",
+      "file": "fda/FDA_FSMA.md",
+      "chars": 270974,
+      "doc_id": "ca2b2d66e68b"
+    },
+    {
+      "agency": "FDA",
+      "category": "FSMA_Preventive_Controls_Animal",
+      "url": "https://www.fda.gov/food/food-safety-modernization-act-fsma/fsma-final-rule-preventive-controls-animal-food",
+      "title": "FSMA Final Rule for Preventive Controls for Animal Food | FDA",
+      "file": "fda/FDA_FSMA_Preventive_Controls_Animal.md",
+      "chars": 30140,
+      "doc_id": "9921c6314e59"
+    },
+    {
+      "agency": "FDA",
+      "category": "FSMA_Produce_Safety",
+      "url": "https://www.fda.gov/food/food-safety-modernization-act-fsma/fsma-final-rule-standards-produce-safety",
+      "title": "Page Not Found | FDA",
+      "file": "fda/FDA_FSMA_Produce_Safety.md",
+      "chars": 1285,
+      "doc_id": "e81176057bcb"
+    },
+    {
+      "agency": "FDA",
+      "category": "FSMA_Foreign_Supplier",
+      "url": "https://www.fda.gov/food/food-safety-modernization-act-fsma/fsma-final-rule-foreign-supplier-verification-programs",
+      "title": "Page Not Found | FDA",
+      "file": "fda/FDA_FSMA_Foreign_Supplier.md",
+      "chars": 1299,
+      "doc_id": "d23e7e314794"
+    },
+    {
+      "agency": "FDA",
+      "category": "FSMA_Sanitary_Transport",
+      "url": "https://www.fda.gov/food/food-safety-modernization-act-fsma/fsma-final-rule-sanitary-transportation-human-and-animal-food",
+      "title": "FSMA Final Rule on Sanitary Transportation of Human and Animal Food | FDA",
+      "file": "fda/FDA_FSMA_Sanitary_Transport.md",
+      "chars": 21516,
+      "doc_id": "d76691843910"
+    },
+    {
+      "agency": "FDA",
+      "category": "FSMA_Intentional_Adulteration",
+      "url": "https://www.fda.gov/food/food-safety-modernization-act-fsma/fsma-final-rule-mitigation-strategies-protect-food-against-intentional-adulteration",
+      "title": "FSMA Final Rule for Mitigation Strategies to Protect Food Against Intentional Adulteration | FDA",
+      "file": "fda/FDA_FSMA_Intentional_Adulteration.md",
+      "chars": 23549,
+      "doc_id": "79e4efd31960"
+    },
+    {
+      "agency": "FDA",
+      "category": "HACCP_Overview",
+      "url": "https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/hazard-analysis-critical-control-point-haccp",
+      "title": "Hazard Analysis Critical Control Point (HACCP) | FDA",
+      "file": "fda/FDA_HACCP_Overview.md",
+      "chars": 7144,
+      "doc_id": "19b0d8e8b9f6"
+    },
+    {
+      "agency": "FDA",
+      "category": "HACCP_Principles",
+      "url": "https://www.fda.gov/food/haccp-principles-application-guidelines/haccp-principles-application-guidelines",
+      "title": "Page Not Found | FDA",
+      "file": "fda/FDA_HACCP_Principles.md",
+      "chars": 1289,
+      "doc_id": "0c30610914a6"
+    },
+    {
+      "agency": "FDA",
+      "category": "Food_Additives_Overview",
+      "url": "https://www.fda.gov/food/food-ingredients-packaging/food-additives-petitions",
+      "title": "Food Additives & Petitions | FDA",
+      "file": "fda/FDA_Food_Additives_Overview.md",
+      "chars": 13963,
+      "doc_id": "08d3c225b30c"
+    },
+    {
+      "agency": "FDA",
+      "category": "Color_Additives",
+      "url": "https://www.fda.gov/industry/color-additives",
+      "title": "Color Additives | FDA",
+      "file": "fda/FDA_Color_Additives.md",
+      "chars": 22103,
+      "doc_id": "6637c7aad56f"
+    },
+    {
+      "agency": "FDA",
+      "category": "GRAS_Overview",
+      "url": "https://www.fda.gov/food/food-ingredients-packaging/generally-recognized-safe-gras",
+      "title": "Generally Recognized as Safe (GRAS) | FDA",
+      "file": "fda/FDA_GRAS_Overview.md",
+      "chars": 11805,
+      "doc_id": "3518f51b43c2"
+    },
+    {
+      "agency": "FDA",
+      "category": "CGMP",
+      "url": "https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/current-good-manufacturing-practices-cgmps-food-and-dietary-supplements",
+      "title": "Current Good Manufacturing Practices (CGMPs) for Food and Dietary Supplements | FDA",
+      "file": "fda/FDA_CGMP.md",
+      "chars": 12938,
+      "doc_id": "98c66a995a6f"
+    },
+    {
+      "agency": "FDA",
+      "category": "Food_Labeling",
+      "url": "https://www.fda.gov/food/food-labeling-nutrition/food-labeling-guide",
+      "title": "Page Not Found | FDA",
+      "file": "fda/FDA_Food_Labeling.md",
+      "chars": 1253,
+      "doc_id": "9dadd489d3b7"
+    },
+    {
+      "agency": "FDA",
+      "category": "Nutrition_Facts_Label",
+      "url": "https://www.fda.gov/food/food-labeling-nutrition/changes-nutrition-facts-label",
+      "title": "Changes to the Nutrition Facts Label | FDA",
+      "file": "fda/FDA_Nutrition_Facts_Label.md",
+      "chars": 26675,
+      "doc_id": "41bf11c814eb"
+    },
+    {
+      "agency": "FDA",
+      "category": "Food_Allergens",
+      "url": "https://www.fda.gov/food/food-allergies/food-allergen-labeling-and-consumer-protection-act-2004-questions-and-answers",
+      "title": "Page Not Found | FDA",
+      "file": "fda/FDA_Food_Allergens.md",
+      "chars": 1302,
+      "doc_id": "e5844b1f0ba5"
+    },
+    {
+      "agency": "FDA",
+      "category": "Chemical_Contaminants",
+      "url": "https://www.fda.gov/food/chemicals-metals-pesticides-food/chemical-contaminants",
+      "title": "Process Contaminants in Food | FDA",
+      "file": "fda/FDA_Chemical_Contaminants.md",
+      "chars": 10592,
+      "doc_id": "fab5765c5928"
+    },
+    {
+      "agency": "FDA",
+      "category": "Pesticides",
+      "url": "https://www.fda.gov/food/chemicals-metals-pesticides-food/pesticides",
+      "title": "Pesticides | FDA",
+      "file": "fda/FDA_Pesticides.md",
+      "chars": 16601,
+      "doc_id": "75a82e4ecdda"
+    },
+    {
+      "agency": "FDA",
+      "category": "Heavy_Metals",
+      "url": "https://www.fda.gov/food/chemicals-metals-pesticides-food/metals-and-your-food",
+      "title": "Environmental Contaminants in Food | FDA",
+      "file": "fda/FDA_Heavy_Metals.md",
+      "chars": 11399,
+      "doc_id": "b12f3c56292f"
+    },
+    {
+      "agency": "FDA",
+      "category": "Dietary_Supplements",
+      "url": "https://www.fda.gov/food/dietary-supplements",
+      "title": "Dietary Supplements | FDA",
+      "file": "fda/FDA_Dietary_Supplements.md",
+      "chars": 8388,
+      "doc_id": "fe1c1574cd3e"
+    },
+    {
+      "agency": "EFSA",
+      "category": "Additives_Overview",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives",
+      "title": "Food additives | EFSA",
+      "file": "efsa/EFSA_Additives_Overview.md",
+      "chars": 15719,
+      "doc_id": "fc4dca62c701"
+    },
+    {
+      "agency": "EFSA",
+      "category": "Safety_Assessment_Additives",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/safety-assessment-food-additives",
+      "title": "Page not found | EFSA",
+      "file": "efsa/EFSA_Safety_Assessment_Additives.md",
+      "chars": 713,
+      "doc_id": "156f7615df6f"
+    },
+    {
+      "agency": "EFSA",
+      "category": "Contaminants",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/contaminants-food-and-feed",
+      "title": "Chemical contaminants in food and feed | EFSA",
+      "file": "efsa/EFSA_Contaminants.md",
+      "chars": 8165,
+      "doc_id": "b67c67123064"
+    },
+    {
+      "agency": "EFSA",
+      "category": "Acrylamide",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/acrylamide",
+      "title": "Acrylamide | EFSA",
+      "file": "efsa/EFSA_Acrylamide.md",
+      "chars": 20085,
+      "doc_id": "60312f3f4870"
+    },
+    {
+      "agency": "EFSA",
+      "category": "PFAS",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/per-and-polyfluoroalkyl-substances-pfas",
+      "title": "Page not found | EFSA",
+      "file": "efsa/EFSA_PFAS.md",
+      "chars": 720,
+      "doc_id": "3b28a90bd418"
+    },
+    {
+      "agency": "EFSA",
+      "category": "Mycotoxins",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/mycotoxins",
+      "title": "Mycotoxins | EFSA",
+      "file": "efsa/EFSA_Mycotoxins.md",
+      "chars": 9438,
+      "doc_id": "960f6b79564d"
+    },
+    {
+      "agency": "EFSA",
+      "category": "Novel_Foods",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/novel-food",
+      "title": "Novel food | EFSA",
+      "file": "efsa/EFSA_Novel_Foods.md",
+      "chars": 16624,
+      "doc_id": "118743d26216"
+    },
+    {
+      "agency": "EFSA",
+      "category": "Nutrition",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/nutrition",
+      "title": "Nutrition | EFSA",
+      "file": "efsa/EFSA_Nutrition.md",
+      "chars": 10004,
+      "doc_id": "ff4d9331b039"
+    },
+    {
+      "agency": "EFSA",
+      "category": "Health_Claims",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/health-claims",
+      "title": "Health claims | EFSA",
+      "file": "efsa/EFSA_Health_Claims.md",
+      "chars": 15455,
+      "doc_id": "f901f2de63c5"
+    },
+    {
+      "agency": "EFSA",
+      "category": "Biological_Hazards",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/biological-hazards",
+      "title": "Biological hazards | EFSA",
+      "file": "efsa/EFSA_Biological_Hazards.md",
+      "chars": 10238,
+      "doc_id": "f0f6026d7b7b"
+    },
+    {
+      "agency": "EFSA",
+      "category": "Salmonella",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/salmonella",
+      "title": "Salmonella | EFSA",
+      "file": "efsa/EFSA_Salmonella.md",
+      "chars": 17192,
+      "doc_id": "6da00339f071"
+    },
+    {
+      "agency": "EFSA",
+      "category": "Listeria",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/listeria",
+      "title": "Listeria: Food Safety Risks and EFSA's Scientific Insights | EFSA",
+      "file": "efsa/EFSA_Listeria.md",
+      "chars": 10222,
+      "doc_id": "01adb26fa904"
+    },
+    {
+      "agency": "EFSA",
+      "category": "Pesticides",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/pesticides",
+      "title": "Pesticides | EFSA",
+      "file": "efsa/EFSA_Pesticides.md",
+      "chars": 9823,
+      "doc_id": "0e12f4a0582f"
+    },
+    {
+      "agency": "EFSA",
+      "category": "GMO",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/gmo",
+      "title": "Genetically modified organisms | EFSA",
+      "file": "efsa/EFSA_GMO.md",
+      "chars": 23590,
+      "doc_id": "4b83d656f2c2"
+    },
+    {
+      "agency": "EFSA",
+      "category": "Food_Contact_Materials",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/food-contact-materials",
+      "title": "Food contact materials | EFSA",
+      "file": "efsa/EFSA_Food_Contact_Materials.md",
+      "chars": 10662,
+      "doc_id": "8718fa13c687"
+    },
+    {
+      "agency": "SFA",
+      "category": "Food_Safety",
+      "url": "https://www.sfa.gov.sg/food-information/risk-at-a-glance",
+      "title": "Risk at a Glance",
+      "file": "sfa/SFA_Food_Safety.md",
+      "chars": 317,
+      "doc_id": "c97d175a99a5"
+    },
+    {
+      "agency": "SFA",
+      "category": "Food_Regulations",
+      "url": "https://www.sfa.gov.sg/food-information/food-regulations",
+      "title": "Food_Regulations",
+      "file": "sfa/SFA_Food_Regulations.md",
+      "chars": 140,
+      "doc_id": "e95d78426e47"
+    },
+    {
+      "agency": "SFA",
+      "category": "Food_Additives",
+      "url": "https://www.sfa.gov.sg/food-information/food-regulations/food-additives",
+      "title": "Food_Additives",
+      "file": "sfa/SFA_Food_Additives.md",
+      "chars": 140,
+      "doc_id": "f5999cb6d42b"
+    },
+    {
+      "agency": "SFA",
+      "category": "Food_Labelling",
+      "url": "https://www.sfa.gov.sg/food-information/food-regulations/food-labelling-guidelines",
+      "title": "Food_Labelling",
+      "file": "sfa/SFA_Food_Labelling.md",
+      "chars": 140,
+      "doc_id": "087e671e0b56"
+    },
+    {
+      "agency": "SFA",
+      "category": "Food_Standards",
+      "url": "https://www.sfa.gov.sg/food-information/food-regulations/food-standards",
+      "title": "Food_Standards",
+      "file": "sfa/SFA_Food_Standards.md",
+      "chars": 140,
+      "doc_id": "1d6bf08a5611"
+    },
+    {
+      "agency": "SFA",
+      "category": "Contaminants_Limits",
+      "url": "https://www.sfa.gov.sg/food-information/food-regulations/maximum-levels-of-contaminants",
+      "title": "Contaminants_Limits",
+      "file": "sfa/SFA_Contaminants_Limits.md",
+      "chars": 140,
+      "doc_id": "d7eb600cbca1"
+    },
+    {
+      "agency": "SFA",
+      "category": "Microbiological_Standards",
+      "url": "https://www.sfa.gov.sg/food-information/food-regulations/microbiological-standards-for-food",
+      "title": "Microbiological_Standards",
+      "file": "sfa/SFA_Microbiological_Standards.md",
+      "chars": 140,
+      "doc_id": "213fb52bfe3c"
+    },
+    {
+      "agency": "SFA",
+      "category": "Pesticide_MRLs",
+      "url": "https://www.sfa.gov.sg/food-information/food-regulations/maximum-residue-limits-for-pesticides",
+      "title": "Pesticide_MRLs",
+      "file": "sfa/SFA_Pesticide_MRLs.md",
+      "chars": 140,
+      "doc_id": "c7290c88f11b"
+    },
+    {
+      "agency": "SFA",
+      "category": "Novel_Food",
+      "url": "https://www.sfa.gov.sg/food-information/risk-at-a-glance/novel-food",
+      "title": "Novel_Food",
+      "file": "sfa/SFA_Novel_Food.md",
+      "chars": 140,
+      "doc_id": "62809cc9623c"
+    }
+  ]
+}

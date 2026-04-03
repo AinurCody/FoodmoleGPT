@@ -1,0 +1,20 @@
+{
+  "model": "gemini-3-flash-preview",
+  "qa_per_article": 5,
+  "started_at": "2026-03-07T18:23:04.664279",
+  "total_articles": 100,
+  "processed": 81,
+  "failed": 0,
+  "total_pairs": 405,
+  "type_counts": {
+    "MECHANISTIC": 81,
+    "FACTUAL": 65,
+    "ANALYTICAL": 84,
+    "APPLICATION": 55,
+    "SYNTHESIS": 44,
+    "METHODOLOGICAL": 75,
+    "ANALYSIS": 1
+  },
+  "errors": [],
+  "finished_at": "2026-03-07T18:52:16.421071"
+}

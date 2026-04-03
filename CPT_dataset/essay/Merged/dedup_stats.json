@@ -1,0 +1,18 @@
+{
+  "minhash_config": {
+    "num_perm": 128,
+    "threshold": 0.8,
+    "shingle_k": 5
+  },
+  "input_total": 247553,
+  "near_dup_clusters": 104,
+  "cluster_size_distribution": {
+    "2": 100,
+    "3": 2,
+    "4": 1,
+    "6": 1
+  },
+  "removed": 112,
+  "final_kept": 247441,
+  "elapsed_seconds": 3514.3
+}

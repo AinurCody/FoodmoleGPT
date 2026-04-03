@@ -1,0 +1,53 @@
+{
+  "model": "gemini-flash",
+  "k": 3,
+  "n_candidates": 66,
+  "temperature": 0.3,
+  "selected": [
+    0,
+    12,
+    20
+  ],
+  "reasoning": "Parsed from: ```json\n{\"selected\": [0, 12, 20], \"reasoning\":",
+  "all_runs": [
+    {
+      "selected": [
+        0,
+        12,
+        20
+      ],
+      "reasoning": "Parsed from: ```json\n{\"selected\": [0, 12, 20], \"reasoning\":"
+    },
+    {
+      "selected": [
+        0,
+        8,
+        24
+      ],
+      "reasoning": "Parsed from: 0.8, HS=0.8) or #24 (CE=0.6,"
+    },
+    {
+      "selected": [
+        0,
+        15,
+        31
+      ],
+      "reasoning": "Parsed from: {\"selected\": [0, 15, 31], \"reasoning\": \"These"
+    },
+    {
+      "selected": [
+        20,
+        0
+      ],
+      "reasoning": "Parsed from:  HS, balanced CE/GE).\n    *   *Candidate #20:* CE=0"
+    },
+    {
+      "selected": [
+        0,
+        15,
+        31
+      ],
+      "reasoning": "Parsed from: ```json\n{\"selected\": [0, 15, 31], \"reasoning"
+    }
+  ]
+}

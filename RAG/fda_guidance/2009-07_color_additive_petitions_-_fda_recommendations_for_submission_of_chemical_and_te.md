@@ -1,0 +1,525 @@
+---
+source: FDA Food Guidance
+title: "Color Additive Petitions - FDA Recommendations for Submission of Chemical and Technological Data on Color Additives for Food, Drugs, Cosmetics, or Medical Devices"
+date: "2009/07"
+url: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-color-additive-petitions-fda-recommendations-submission-chemical-and-technological
+crawled: "2026-03-25T14:59:50.325384"
+chars: 52637
+---
+
+- [Skip to main content](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-color-additive-petitions-fda-recommendations-submission-chemical-and-technological#main-content)
+- [Skip to FDA Search](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-color-additive-petitions-fda-recommendations-submission-chemical-and-technological#search-form)
+- [Skip to in this section menu](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-color-additive-petitions-fda-recommendations-submission-chemical-and-technological#section-nav)
+- [Skip to footer links](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-color-additive-petitions-fda-recommendations-submission-chemical-and-technological#footer)
+
+[In this section:\\
+\\
+Search for FDA Guidance Documents](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-color-additive-petitions-fda-recommendations-submission-chemical-and-technological#section-nav)
+
+1. [Home](https://www.fda.gov/)
+2. [Regulatory Information](https://www.fda.gov/regulatory-information)
+3. [Search for FDA Guidance Documents](https://www.fda.gov/regulatory-information/search-fda-guidance-documents)
+4. Guidance for Industry: Color Additive Petitions - FDA Recommendations for Submission of Chemical and Technological Data on Color Additives for Food, Drugs, Cosmetics, or Medical Devices
+
+1. [Search for FDA Guidance Documents](https://www.fda.gov/regulatory-information/search-fda-guidance-documents "Search for FDA Guidance Documents")
+
+Issued by:
+
+Guidance Issuing Office
+
+Human Foods Program
+
+**January 1997; Revised July 2009**
+
+_Contains Nonbinding Recommendations_
+
+You may submit written or electronic comments regarding this document at any time. Submit written comments on the guidance to the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852. Submit electronic comments to [http://www.regulations.gov.](http://www.regulations.gov/)
+
+_This guidance represents the Food and Drug Administration's (FDA's) current thinking on this topic. It does not create or confer any rights for or on any person and does not operate to bind FDA or the public. You can use an alternative approach if the approach satisfies the requirements of the applicable statutes and regulations._
+
+## I. Introduction
+
+This document provides guidance for the submission of the chemical and technological data that the Food and Drug Administration's Office of Food Additive Safety considers necessary for its evaluation of petitions requesting the listing of color additives for use in food, drugs, cosmetics, or medical devices. These recommendations are provided to assist petitioners who propose to impart color to a food, drug, cosmetic, or medical device that is subject to federal regulation by use of a substance (color additive) that is currently not permitted for that use. These recommendations are not substitutes for the Federal Food, Drug, and Cosmetic Act (the Act) or Title 21 of the Code of Federal Regulations (CFR), sections which are cited in this document.
+
+FDA’s guidance documents, including this guidance, do not establish legally enforceable responsibilities. Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word _should_ in Agency guidances means that something is suggested or recommended, but not required.
+
+## II. Discussion
+
+As prescribed by law, a color additive must be shown to be safe and be listed in the CFR before it may be used to color foods, drugs, cosmetics, or certain medical devices. An interested person may petition the Food and Drug Administration (FDA) for the proposed use of a color additive and submit data demonstrating its safety and suitability as described in 21 CFR Part 71. The FDA will, upon written request, advise on the adequacy of experiments planned to yield these data (21 CFR 70.42(c)). If, upon evaluation of the data in the petition, additional data, and public comments, the Agency finds that the petitioned color additive is safe and suitable for the intended use, then a regulation may be issued or an existing regulation altered, thereby listing the color additive for such use. The color additive will be listed in 21 CFR Part 73 if it is exempt from batch certification or in 21 CFR Part 74 if it is subject to batch certification.
+
+The data that are appropriate for approval of a color additive petition depend on the level and type of use and the amount of color additive and its impurities that may enter body tissues. A petition for use of a color additive in externally applied cosmetics generally requires much less data than a petition for use of a color additive in food if it is shown that the color additive, including its impurities, does not penetrate the skin or if the amount used is negligible.
+
+The data and information in a color additive petition that are or are not available for public disclosure are described in 21 CFR 71.15. Questions on the confidentiality of the data and information should be referred to the Office of Food Additive Safety, Division of Petition Review.
+
+## III. Statutory and Regulatory Requirements
+
+### A. Statutory Requirements
+
+Section 201(t) of the Act defines color additive to mean:
+
+> "a material which ... is a dye, pigment, or other substance made by a process of synthesis or similar artifice, or extracted, isolated, or otherwise derived, with or without intermediate or final change of identity, from a vegetable, animal, mineral, or other source, and ... \[that\] when added or applied to a food, drug, or cosmetic, or to the human body or any part thereof, is capable (alone or through reaction with \[an\]other substance) of imparting color thereto ... The term 'color' includes black, white, and intermediate grays..."
+
+Food (section 402(c) of the Act), drugs and devices (section 501(a)(4) of the Act), and cosmetics (section 601(e) of the Act) are deemed to be adulterated if they contain a color additive that is unsafe within the meaning of section 721(a) of the Act.
+
+Section 721(a) of the Act defines conditions under which a color additive is deemed unsafe. Briefly, a color additive used in or on a food, drug, cosmetic or medical device shall be deemed unsafe unless (1) there is a regulation listing such color additive, (2) the regulation allows that particular use, and (3) the color additive and its use conform to the regulation. A color additive for use in or on a device shall be subject to this section only if the color additive comes in direct contact with the body of man or other animal for a significant period of time.
+
+Coal-tar hair dyes are cosmetic products that have a limited exemption, under section 601(a) of the Act, from the color additive regulation requirements (section 721(a) of the Act). Coal-tar dyes are organic dyes formerly synthesized from coal tar but now synthesized from petroleum or coal sources. Coal-tar dyes used for coloring the hair are not required to be pre-approved by the FDA. Under section 601(a) of the Act, hair coloring products containing unapproved coal-tar dyes are not considered to be adulterated if the products bear a specified caution statement and adequate directions for a preliminary patch test. Section 601(a) of the Act also stipulates that the term "hair dye" does not include eyelash or eyebrow dyes. Currently no color additives are approved for use in dyeing the eyelashes or eyebrows.
+
+Section 721(b) of the Act describes the statutory requirements for the listing of color additives. Briefly, when the FDA evaluates safety data, there are four general areas of consideration, of which the most pertinent to these recommendations is:
+
+> "the availability of any needed practicable methods of analysis for determining the identity and quantity of (I) the pure dye and all intermediates and other impurities contained in such color additive, (II) such additive in or on any article of food, drug, device, or cosmetic, and (III) any substance formed in or on such article because of the use of such additive." (Section 721(b)(5)(A) (iv) of the Act)
+
+Parts 70 and 71 of Title 21 of the Code of Federal Regulations, which were promulgated under the authority of section 706(b) of the Act, describe in greater detail the format, the administrative requirements, and the information and data required for color additive petitions.
+
+##### B. Regulatory Requirements for Chemical and Technological Data in Color Additive Petitions (21 CFR 71.1)
+
+The chemical and technological data that are appropriate for the evaluation of a color additive petition are described in 21 CFR 71.1(c) sections A., B., C., E., F., and G. as discussed below. The data must be submitted in the manner described in 21 CFR 71.1(f). Sections D., H., I., and J. are not covered by these recommendations.
+
+**(1) 21 CFR 71.1(c) A.**
+
+- Identity
+
+
+The petition must include the name and all pertinent information concerning the color additive, including chemical identity and composition and a description of the chemical and physical tests relied upon to identify the color additive. (21 CFR 71.1(c) A.)
+
+Information identifying the proposed color additive should be as complete as possible and generally includes (as appropriate):
+
+1. The common or usual name of the color additive.
+2. Formal names, such as Chemical Abstracts Service (CAS) or IUPAC names, of the components that significantly contribute to the color imparted by the color additive. Colored substances that are not included in the identity may be considered impurities for which specifications may be proposed as described in the Chemical Specifications section.
+3. Synonyms, other common names, or trade names for the color additive.
+4. Chemical formulae, structures, and molecular weights for all color components included in the identity.
+5. CAS Registry Numbers of the color additive and of color components included in the identity, if available. CAS Registry Numbers for new compounds may be obtained from CAS upon written request.
+6. For a color additive derived from plant or animal sources, a complete description of its source -- i.e., segment of plant or animal, common name, genus, and species, and any subclassification.
+7. Descriptions of chemical, physical, and biological tests and the resulting data that establish the identity of the color additive (for example, NMR and mass spectra, elemental analysis, photograph of biological source).
+8. If the petition includes the use of lakes of a color additive, a description of the color additive lakes should be included (see 21 CFR 74.340(a)(3), 74.1340(a)(3), and 74.2340(a)(2) for examples). The description should include the identity (including composition) of the substrata and the precipitant, as well as the anticipated range of total color incorporated in the lakes. Under current listings, (1) lakes that are certified for use in coloring food, drugs, and cosmetics may contain only alumina as a substratum and only aluminum or calcium as lake cations (21 CFR 82.51); (2) lakes that are certified for use in coloring drugs and cosmetics or externally applied drugs and cosmetics may contain only those substrata and lake cations specified in 21 CFR 82.1051 or 82.2051, respectively. Note that on March 4, 1996, FDA proposed to permanently list lakes in 21 CFR Part 74 and to delete calcium as a cation for food lakes (61 FR 8372).
+
+- Physical, Chemical, and Biological Properties
+
+
+The petition must include information on physical, chemical, and biological properties. (21 CFR 71.1(c) A.)
+
+Information on the properties of representative batches of the proposed color additive and, if available, of the main color component (s) generally includes (as appropriate):
+
+1. Physical properties -- A complete physical description such as physical appearance, melting and boiling range (where applicable), solubility in various common solvents, odor, etc.
+2. Chemical and spectrometric properties -- A description of the (1) chemical properties of the color additive, such as the effects of air, water, light, acid, base, and temperature and (2) spectrometric properties of the color additive such as ultraviolet/visible spectra (in appropriate solvents and pH). The infrared, NMR, or mass spectra of certain color additives may be appropriate.
+3. If the particle size is important for the color additive to achieve its intended technical effect, such that the color additive is produced or processed using techniques or tools that manipulate the particle size and may contain altered particles that are formed as manufacturing by-products, data on the size (average and distribution), shape, surface area (average and distribution), surface charge (zeta potential), and morphology of the particles, as well as any other size-dependent properties (e.g., agglomeration, aggregation, dispersion) should be included, as appropriate.
+
+- Chemical Specifications
+
+
+The petition must include specifications prescribing the color additive component(s) and identifying and limiting the reaction byproducts and other impurities. (21 CFR 71.1(c) A.)
+
+Recommendations concerning chemical specifications for the proposed color additive are as follows:
+
+1. The petitioner should propose chemical specifications that, together with the identity, define the article of commerce and reflect the composition of the proposed color additive. The petitioner should unambiguously identify any individually specified component (e.g., using the common or usual name, IUPAC or CAS name, and CAS Registry Number, where possible). Proposed chemical specifications should closely reflect the composition of representative batches of color additive used in performing the safety tests for the color additive. Justification is generally needed if a proposed specification greatly differs from the amount of that component found in representative batches. Separate specifications should be included for any lake(s). Examples of chemical specifications for listed color additives are available in existing regulations in 21 CFR Parts 73, 74, and 82. Chemical specifications generally consist of the following aspects of color additive composition (as appropriate):
+   - Volatile matter (specify conditions, maximum percentage).
+   - Soluble, extractable or insoluble matter (specify solvent or conditions, percentage).
+   - Residual salts (identity, maximum percentage).
+   - Soluble impurity (identity, specify solvent or conditions, maximum mg/kg (ppm)).
+   - Unreacted intermediates and related compounds (identity, maximum percentage, mg/kg (ppm) or μg/kg (ppb)).
+   - Subsidiary colors (identity, maximum percentage) (subsidiary colors are colored substances that are not included in the identity of the color additive but are structurally similar to the main color component(s)).
+   - Individual components that are included in the identity of the color additive (identity, minimum or maximum percentage).
+   - Pesticide residues (maximum mg/kg (ppm)).
+   - Solvent residues (identity, maximum percentage or mg/kg (ppm)).
+   - Ash (maximum percentage).
+   - Heavy metals (identity, maximum mg/kg (ppm)).
+   - Total color content (assay, minimum percentage). This may include contributions from the identified color components and subsidiary colors.
+   - Parameters related to the particle size, shape, and surface properties of the color additive, as appropriate, if particle size is important for the identity and functionality of the color additive.
+2. The petitioner should submit analyses for several batches of the proposed color additive manufactured according to the process(es) included in the petition to demonstrate conformance with and suitability of specifications. Analyses of five or more batches, including batches used for safety testing, are recommended unless the petitioner provides a valid justification for a different sampling scheme. The analytical methods used should be those provided by the petitioner as discussed below.
+3. The petitioner should consider that impurities of specific toxicological concern (e.g. chemical carcinogens) may be present in the proposed color additive. The petitioner should review the manufacturing process, the chemical literature on the proposed color additive and related compounds, and the specifications of listed related color additives. If carcinogens (e.g. unsulfonated aromatic amines such as 4-aminobiphenyl, aniline, and benzidine), compounds that may degrade to carcinogens (e.g. 1,3-diphenyltriazene), or compounds that may be metabolized to carcinogens (e.g. unsulfonated aromatic amines that have been diazotized and coupled) are likely to be present, then the petitioner should contact FDA for guidance because further investigations may be needed to provide a basis for specifications for these putative impurities.
+4. The petitioner should report all analytical results, both favorable and unfavorable, in a clear and concise manner. Examples of raw data with the analytical results, sufficient to allow complete evaluation of the results and conclusions, should be included. Raw data may include copies of instrument curves and printouts and laboratory notebook pages, all properly labeled. Information should be presented in a manner that allows all results and calculations to be clearly interpreted and evaluated. Additional raw data should be available for submission if requested.
+
+- Manufacturing Process Description
+
+
+The petition must include a full description of the methods used in, and the facilities and controls used for, the production of the color additive. These shall establish that it is a substance of reproducible composition. Alternative methods and controls and variations in methods and controls, within reasonable limits, that do not affect the characteristics of the substance or the reliability of the controls may be specified.
+
+The petition shall supply a list of all substances used in the synthesis, extraction, or other method of preparation of any straight color, regardless of whether they undergo chemical change in the process. Each substance should be identified by its common or usual name and its complete chemical name, using structural formulas when necessary for specific identification. If any proprietary preparation is used as a component, the proprietary name should be followed by a complete quantitative statement of composition. Reasonable alternatives for any listed substance may be specified.
+
+If the petitioner does not himself perform all the manufacturing, processing, and packing operations for a color additive, the petitioner shall identify each person who will perform a part of such operations and designate the part (21 CFR 71.1(c) A.).
+
+Recommendations concerning manufacturing process descriptions for petitioned color additives are as follows:
+
+1. A description of the manufacturing process generally includes (as appropriate) conditions for reactions (reagents and how they are combined and mixed, temperature, time, solvent, pH, atmosphere) and for concentration, isolation, and purification of intermediate and final products. The production controls that are employed to assure purity, conformance with specifications, and uniformity of product (such as specifications, source, and purity of reagents; assay, analyses, chromatography, spectra, and other tests of reagents, reaction mixtures, and products) should be described. If the color additive is manufactured by extraction from plant or animal sources, a complete description of all conditions including solvents employed, processing aids, and processes for removing residual solvents should be submitted. If the color additive is produced by tissue, bacterial or yeast culture, or fermentation, an analogous description of the manufacturing process and controls should be submitted. These descriptions should show that the manufacturing process and controls yield a product of specific identity.
+
+Alternative manufacturing methods not employed by the petitioner but known to the petitioner should also be identified.
+
+If the petition includes the use of color additive lake(s), then the petition should include a description of the process used to manufacture the lake(s).
+
+Any other information which identifies or describes the substance or its preparation in accordance with good manufacturing practice, or which permits control of its composition, identity, or properties should be included.
+
+- Stability Data
+
+
+The petition must include stability data, and, if the data indicate that it is needed to insure the identity, strength, quality, or purity of the color additive, the expiration period that will be employed as well as any packaging and labeling precautions needed to preserve stability. (21 CFR 71.1(c) A.)
+
+Recommendations concerning the stability data for petitioned color additives are as follows:
+
+1. The petition should include data which establish the stability of the color additive _per se_. If the color additive is clearly stable or was previously shown to be stable, a statement to this effect with appropriate references and discussion may be sufficient. The stability data should reflect actual conditions of use and exposure. For example, if it is customary that the color additive will be stored in containers that are opened frequently for use in products, then the stability study should include periods of exposure to atmospheric air and humidity. If the color additive is likely to be exposed to sunlight or other illumination, then the study should include these elements. The study period should be of sufficient duration to allow an accurate assessment of stability over the anticipated lifetime that the color additive will have in the hands of the user. Usually, a two-year study is sufficient for this purpose.
+2. If the proposed color additive exhibits excessive instability, then the petitioner may propose that the color additive be listed, but with an expiration date beyond which its use in products would result in the product being adulterated within the meaning of the Act. The petitioner may propose to use the color additive only as a stabilized color additive mixture with or without an expiration date depending on the stability of the mixture. However, the petitioner should clearly demonstrate that the color additive can be manufactured and used in a manner that ensures safe use.
+3. If the proposed color additive exhibits excessive instability, then the petitioner should provide a method for identification of and data identifying the principal decomposition products. If such data are unavailable, the petitioner may, as an alternative, provide an explanation of why the data are unavailable together with a description, in terms of chemical mechanism, of the likely products of decomposition. This description should be based on sound chemical theory and be supported by available scientific literature.
+
+**(2) 21 CFR 71.1(c) B.**
+
+- Uses and restrictions
+
+
+The petition must include the amount of the color additive proposed for use and the color effect intended to be achieved, together with all directions, recommendations, and suggestions regarding the proposed use. If the color effect results or may reasonably be expected to result from use of the color additive in packaging material, the petitioner shall show how this may occur and what residues may reasonably be anticipated.
+
+If the color additive is one for which a tolerance limitation is required to assure its safety, the level of use proposed should be no higher than the amount reasonably required to accomplish the intended physical or other technical effect, even though the safety data may support a higher tolerance. If the safety data will not support the use of the amount of the color additive reasonably needed to accomplish the desired color effect, the requested tolerance will not be established. Petitioners are expected to propose the use of color additives in accordance with sound color chemistry. (21 CFR 71.1(c) B.)
+
+Recommendations for tolerances and other limitations are discussed in 21 CFR 71.1(c)(F). Other recommendations concerning information on uses and restrictions for a petitioned color additive are as follows:
+
+1. Information should be furnished which describes the products that will be colored and the amount of the color additive that is necessary to achieve the desired effect. This information should be clearly stated and supported so as to allow FDA to ensure that proposed methods for determining the color additive in products are reasonable and to allow estimation of probable human exposure.
+2. These uses and restrictions should be in accord with proposed tolerances and other limitations (if required). The general restrictions for articles intended for use in the area of the eye (21 CFR 70.5(a)), in injections (21 CFR 70.5(b)), for surgical sutures (21 CFR 70.5(c)), and for coloring standardized foods (21 CFR 70.10(a)(3)) require a specific listing or authorization for these uses (i.e., a color additive listing does not allow these uses unless specifically requested in the petition and allowed by the regulation).
+
+- Labeling
+
+
+The petition must include specimens of the labeling proposed for the color additive. Typewritten or other draft-labeling copy will be accepted for consideration of the petition provided final printed labeling identical in content to the draft copy is submitted as soon as available, and prior to the marketing of the color additive. The printed labeling shall conform in prominence and conspicuousness with the requirements of the Act. (21 CFR 71.1(c) B.)
+
+Recommendations concerning information on labeling for a petitioned color additive are as follows:
+
+1. The petitioner should include an example of the labeling to be used for bulk containers of the color additive. The petitioner is referred to 21 CFR 70.25 for the labeling requirements for color additives and to 21 CFR 73.30(d) and 73.295(d) for examples of individual labeling requirements. The label must also show precautions needed to preserve stability if required.
+2. If there is a special requirement for labeling products that contain the color additive, the petitioner may include examples of product labels for review. The petitioner is referred to 21 CFR 101.22, 201.20, 501.22 and Part 701 for labeling requirements for products containing color additives and to 21 CFR 74.705(d)(2) for an example of an individual labeling requirement.
+
+**(3) 21 CFR 71.1(c) C.**
+
+- Analytical Methods for Enforcing Chemical Specifications
+
+
+The petition must include a description of practical methods to determine the pure color and all intermediates, subsidiary colors, and other components of the color additive. (21 CFR 71.1(c) C. 1.)
+
+The petitioner should provide validated analytical methods for determining all substances that are specified for the color additive. If the petition includes the use of the color additive lake(s), then the petition should include methods for determining all substances that are specified for the lake(s) and the substrata used to prepare the lake(s). Copies (English translations where appropriate) of published methods that are incorporated by reference should also be submitted. Some modification of these recommendations may be made if the proposed specification for an analyte is much greater than the amount of analyte normally found. The following general format is suggested for analytical methods to be used for the enforcement of chemical specifications.
+
+01. **Description**--Provide a brief summary of the method stating the principles, scope, and limitations. Include information on the types of matrices to which the method is applicable (especially color additive lakes and mixtures), the types of substances that would interfere with the method, and the range of analytical capability including quantitative limits.
+02. **List of equipment and reagents** (other than common laboratory items) necessary to perform the analysis.
+03. **Reference standards for analytes**--Describe source of each and provide method of purification and proof of purity, assay and method of analysis, stability, and conditions for storage.
+04. **Procedure**--Furnish a detailed procedure that a properly trained and equipped analyst, not necessarily familiar with the procedure, could follow and obtain accurate and reproducible results. Describe all aspects of the procedure from sample preparation, through analytical determination, to the calculations necessary to obtain the final results. Note any special techniques, precautions, interpretation, and other useful or necessary information.
+05. **Calibration**--Use at least five evenly-spaced analyte concentrations representing 0 to _ca_ 125 - 200% of the specification levels or other level of interest. Include blank(s) and control(s). If matrix effects are insignificant, calibration may be performed in the absence of the color additive matrix. Calibration and analysis by the method of standard additions may be requested to confirm lack of matrix effects. If the calibration curve is non-linear, more calibration points will be needed.
+06. **Recovery studies**--Perform repeat analyses of a relatively pure or purified color additive and analyses of this matrix plus known amounts of reference standards. The reference standards should be added to individual portions of the color additive, not to extracts of the color additive, and the fortified color additive should then be analyzed. For methods that do not fully dissolve the color additive or its lake, there should be some assurance that a portion of the analyte is not lost by being trapped in the matrix. At least five analyses of color additive fortified to the specification level should be made for each analyte to demonstrate repeatability. Similar analyses of color additive fortified to one-half and to one-eighth the specification level may be requested to ensure that recovery is independent of analyte concentration and to ascertain limits of determination. Justification should be provided for recoveries that are less than 60% at the μg/kg (ppb) level, less than 80% at the 0.1 mg/kg (ppm) level (W. Horwitz, _Anal. Chem._ (1982), vol. 54, pages 67A-76A), or less than 85% at higher levels.
+07. **Survey**--Provide results from analyses of at least five representative manufacturing lots of the proposed color additive, with blanks and controls. Confirm lack of interference by color components and impurities. Triplicate (or more) analyses of several samples should be made to allow estimation of precision.
+08. **Analysis of results**--Design calibration, analysis, and recovery experiments to allow useful statistical evaluation of the resulting data. Confidence levels of 95% may be used. From calibration experiments, the upper limit of the blank, the limit of determination, and the confidence interval at the specification level can be calculated for each analyte. From recovery studies at the specification levels, the percent recovery and confidence interval can be calculated for each analyte. From analyses of representative lots, confidence intervals for analyte concentrations can be calculated. From these data, a decision can be made on the merit of the methods for determining the analytes and for establishing and enforcing a specification.
+09. **Identification**--Submit descriptions of chemical and physical tests and the resulting data that confirm the identity of specified impurities that are found in the proposed color additive.
+10. **Discussion**--Provide pertinent discussion of the method or analytical results. Conclusions and their significance should be discussed. A scientifically derived estimate of the uncertainty of the analytical results should be reported. Statistical treatment of data yields this type of information when the experiments are properly designed. Consult appropriate texts or authorities in this regard, as a discussion of the principles of statistical design and analysis is beyond the scope of these recommendations.
+
+In general, good intra-laboratory precision is indicated by a coefficient of variation (CV) of less than 10% for analytical values of 1 mg/kg (ppm), with CVs doubling for each 100 fold decrease in the analytical value.
+
+- Qualitative and Quantitative Determination of the Color Additive in Products
+
+
+The petition must include a description of practicable methods to determine the amount of the color additive in any raw, processed, and/or finished food, drug, or cosmetic in which use of the color additive is proposed. (The tests proposed shall be those that can be used for food, drug, or cosmetic control purposes and can be applied with consistent results by any properly equipped laboratory and trained personnel.) (21 CFR 71.1(c) C. 2.)
+
+The petitioner should provide a method to identify the color additive in a product to which it is proposed to be added. Additionally, if a regulatory tolerance limiting the amount of color additive that a product may contain is required, then the petitioner should provide a method to quantitatively determine the proposed color additive in the product. A practical analytical method for this determination that can be performed by properly equipped and trained laboratory personnel should be furnished by the petitioner. This method should be specific, precise, accurate, and reliable. It should be able to withstand the scrutiny of courtroom cross-examination, if necessary; however, it should also be practicable and able to be performed under a variety of laboratory conditions. It should not be so complicated or sophisticated that it could only be performed by certain individuals or with certain uncommon, highly sophisticated equipment. An analytical method should be able to be tested by collaborative studies in typical analytical laboratories. The following general format is suggested for such a method:
+
+01. **Description**\-\- Provide a brief summary of the method stating the principles, scope, and limitations. Include information on the types of products to which the method is applicable (especially color additive lakes and mixtures), the types of substances that would interfere with the method, and the range of analytical capability including quantitative limits.
+02. **List of equipment and reagents** (other than common laboratory items) necessary to perform the analysis.
+03. **Reference standard for color additive**--Describe source and if a regulatory tolerance exists or is proposed, also provide assay.
+04. **Procedure** \-\- Furnish a detailed procedure that a properly trained and equipped analyst, not necessarily familiar with the procedure, could follow and obtain accurate and reproducible results. Describe all aspects of the procedure from sample preparation, through analytical determination, to the calculations necessary to obtain the final results. Note any special techniques, precautions, interpretation, and other useful or necessary information.
+05. **Calibration**\-\- Use at least five evenly-spaced analyte concentrations representing 0 to _ca_ 125 - 200% of the specification levels or other level of interest. Include blank(s) and control(s). If the product matrix effects are insignificant, calibration may be performed in the absence of the matrix. Calibration and analysis by the method of standard additions may be requested to confirm lack of matrix effects. If the calibration curve is non-linear, more calibration points will be needed.
+06. **Recovery studies**--For identification of the color additive in a product, analyze product made without the color additive and product made with the lowest proposed level of the color additive. If a regulatory tolerance exists or is proposed, make repeat quantitative analyses of the product with and without addition of known amounts of color additive. The color additive should be added to individual portions of the product, not to extracts of the product, and the fortified product should then be analyzed. For methods that do not fully dissolve the product, there should be some assurance that a portion of the color is not lost by being trapped in the matrix. At least four or five analyses of the product fortified to the proposed regulatory tolerance level should be made. Similar analyses of the product fortified to 0.5 and to 1.5 times the tolerance level should be included to ensure that recovery is independent of analyte concentration and to ascertain limits of determination.
+07. **Survey**--If a regulatory tolerance exists or is proposed, provide results from analyses of representative samples of the proposed colored product, blanks, and controls. The lack of interference by the product matrix should be confirmed. Triplicate (or more) analyses of several samples should be made to allow estimation of precision.
+08. **Analysis of results**--If a regulatory tolerance exists or is proposed, design and perform calibration, analysis, and recovery experiments that allow useful statistical evaluation of the resulting data. Confidence levels of 95% may be used. From calibration experiments, the upper limit of the blank, the limit of determination, and the confidence interval at the tolerance level can be calculated. From recovery studies at the tolerance level, the percent recovery and confidence interval can be calculated. From analyses of colored products, precision and confidence intervals for concentrations of the color additive can be calculated. From these data, a decision can be made on the merit of the method for determining the color additive and for establishing and enforcing a tolerance.
+09. **Identification**--Submit descriptions of chemical and physical tests and the resulting data that confirm the identity of the color additive found in the product.
+10. **Discussion**\-\- Provide pertinent discussion of the method or analytical results. Conclusions and their significance should be discussed. A scientifically derived estimate of the uncertainty of the analytical results should be reported. Statistical treatment of data yields this type of information when the experiments are properly designed. Consult appropriate texts or authorities in this regard, as a discussion of the principles of statistical design and analysis is beyond the scope of these recommendations.
+
+- Identification and Determination of Any Substance Formed in or on Products Because of the Use of the Color Additive
+
+
+The petition must include a description of methods for identification and determination of any substance formed in or on such food, drug, or cosmetic because of the use of the color additive. (If it is the petitioner's view that any such method would not be needed under the terms of 721(b)(5)(A)(iv), a statement shall be submitted in lieu of methods as to the basis for such view.) (21 CFR 71.1(c) C. 3.)
+
+Generally, the petitioner may submit a statement, with justification, that these data are not needed to determine whether use of a color additive is safe. The agency may, however, require that petitioners supply such information upon request whenever a safety question arises due to possible chemical interaction between the color additive and the product.
+
+**(4) 21 CFR 71.1(c) D.**
+
+- Safety Investigations
+
+
+Not covered by these recommendations.
+
+**(5) 21 CFR 71.1(c) E.**
+
+- Estimate of Probable Exposure
+
+
+The petition must include complete data which will allow the Commissioner to consider, among other things, the probable consumption of, and/or other relevant exposure from the additive and of any substance formed in or on food, drugs, or cosmetics because of such additive; and the cumulative effect, if any, of such additive in the diet of man or animals, taking into account the same or any chemically or pharmacologically related substance or substances in the diet including, but not limited to food additives and pesticide chemicals for which tolerances or exemptions from tolerances have been established. (21 CFR 71.1(c) E.)
+
+An [estimate of probable exposure](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-estimating-dietary-intake-substances-food "Guidance for Industry: Estimating Dietary Intake of Substances in Food") to the petitioned color additive is critical for its safety evaluation. The estimated daily exposure helps to determine the type and extent of animal feeding studies required to establish the safety of the color additive under the proposed conditions of use. If use of color additive lakes is proposed, then the anticipated uses of the lake and the range of total color incorporated into the lake should be appraised, thereby allowing an estimate of probable exposure to the color _per se_.
+
+**Color Additives Used in Food**
+
+A petitioner must provide information sufficient to permit an estimate of chronic daily exposure to a color additive. From analyzed or estimated levels of an additive in food, the concentration of the color additive expected in the daily diet and the estimated daily intake (EDI) can be calculated. The types of information that are needed for the exposure analysis include composition of the color additive, levels of impurities, proposed foods or food categories in which the color additive is intended to be used, and anticipated typical and maximum levels of use. (21 CFR 71.1(c) E.)
+
+**Color Additives Used in Drugs**
+
+A petitioner must provide information sufficient to permit an estimate of exposure to the color additive. The composition of the color additive, levels of impurities, proposed drugs or types of drugs that will contain the color additive, and the anticipated typical and maximum levels of use should be provided. The petitioner should note if the drugs in which the color additive would be used will be prescribed for long-term or chronic use or for short-term use (i.e., days, weeks). (21 CFR 71.1 (c) E.)
+
+**Color Additives Used in Cosmetics**
+
+Migration of color additives from cosmetics to skin will be evaluated on the basis of 100% migration. Skin penetration studies, if submitted, may be used to adjust the results of the 100% migration assumption. Information that is useful for the evaluation includes composition of the color additive, levels of impurities, and anticipated levels of use.
+
+**Color Additives Used in Medical Devices**
+
+For color additives intended for use in medical devices (e.g., sutures, contact lenses), migration of the color additive to tissue is most easily determined by averaging 100% migration over the lifetime of the article. Actual migration studies may also be performed. The types of information that are useful for the exposure analysis include composition of the color additive, levels of impurities, the maximum and typical lifetimes of the device, and typical and maximum anticipated levels of the color additive used in the device. Information on the actual rate of migration of the color additive from the device may also be used in preparation of the exposure estimate. The petitioner may wish to consult the Agency for concurrence with any migration studies that are envisioned.
+
+Information on estimating exposure to color additives used in or on contact lenses may be found in the guidance document “Guidance for Industry: Preparing a Color Additive Petition for Submission to the Center for Food Safety and Applied Nutrition for Color Additives Used in or on Contact Lenses.” Further information on estimating exposure may be obtained by contacting FDA’s Office of Food Additive Safety, Division of Petition Review (see “Information on Other Topics” below).
+
+**(6) 21 CFR 71.1(c) F.**
+
+- Proposed Tolerances and Other Limitations
+
+
+The petition must include proposed tolerances and other limitations on the use of the color additive, if tolerances and limitations are required in order to ensure its safety. (21 CFR 71.1 (c) F.)
+
+- Proposed Regulation
+
+
+The petitioner may include a proposed regulation. (21 CFR 71.1(c) F.)
+
+Inclusion of a proposed regulation is recommended. The proposed regulation should be based on the submitted data and contain sections delineating the identity, specifications, uses and restrictions, labeling, and certification status of the proposed color additive (see 21 CFR Parts 73 and 74 for examples). The petitioner may also include an abridged description of the manufacturing method that the agency may incorporate into the identity section of the color additive regulation. If the petition includes the use of lakes of a color additive, the proposed regulation should also include the lakes (see 21 CFR 74.340(a)(3) and (d), 74.1340(a)(3) and (c), and 74.2340(a)(2) for examples).
+
+If a tolerance or limitation is proposed on the use of the color additive, then the "uses and restrictions" section of the proposed regulation should describe the specific use, the amount to be used, and other limitations. If no special tolerance or limitation is required to ensure safety, then the section may describe use of the color additive for coloring either food, drugs, or cosmetics "generally in amounts consistent with good manufacturing practice." The petitioner is referred to 21 CFR Parts 73 and 74 for examples of uses and restrictions for currently listed color additives.
+
+**(7) 21 CFR 71.1(c) G.**
+
+- Exemption from Batch Certification
+
+
+The petition must include, if exemption from batch certification is requested, the reasons why it is believed such certification is not necessary (including supporting data to establish the safety of the intended use). (21 CFR 71.1 (c) G.)
+
+A petition for exemption from certification must show why such certification is not necessary for the protection of public health (21 CFR 71.18). Factors FDA will consider in determining whether certification of the color additive is necessary include the composition of the color additive, its manufacturing process, possible impurities, its toxic potential, analytical methods necessary to assure compliance with the listed specifications, and the variability in the composition of the color additive (21 CFR 71.20(b)). Refer to 21 CFR Part 73 for examples of color additives for which exemption from batch certification has been granted. Color additives that are exempt from batch certification for one use may be subject to batch certification for other uses.
+
+**(8) 21 CFR 71.1(c) H., I., and J.**
+
+- Altering an Existing Regulation, Fee and Signature, and Environmental Assessment
+
+
+Not covered by these recommendations.
+
+### C. Regulatory Requirements for Samples (21 CFR 71.4)
+
+The Commissioner may request samples of the color additive, articles used as components thereof, or of the food, drug, or cosmetic in which the color additive is proposed to be used, or which comprises the color additive. (21 CFR 71.4)
+
+The petition should be accompanied by samples from five (5) different production or pilot batches of the proposed color additive, including batches submitted for toxicological testing, that are manufactured according to the process described in the petition. Because specifications may be based on the composition of these samples, the petitioner should expect them to be representative of future batches of the proposed color additive. In addition, samples manufactured by any alternative manufacturing processes that may be proposed in the petition should be provided.
+
+### D. Information on Other Topics
+
+These recommendations do not address all administrative, toxicological, microbiological, nutritional, environmental assessment, or labeling requirements that a petitioner may have to satisfy. Information on these topics may be obtained by contacting:
+
+Office of Food Additive Safety, Center for Food Safety and Applied Nutrition
+
+Division of Petition Review, HFS-265
+
+Food and Drug Administration
+
+5001 Campus Drive
+
+College Park, MD 20740
+
+Email:  premarkt@fda.hhs.gov
+
+* * *
+
+This guidance has been prepared by the Division of Petition Review in the Center for Food Safety and Applied Nutrition at the U.S. Food and Drug Administration.
+
+* * *
+
+## Related Information
+
+- [Ingredients, Additives, GRAS & Packaging Guidance Documents & Regulatory Information](https://www.fda.gov/food/guidance-documents-regulatory-information-topic-food-and-dietary-supplements/ingredients-additives-gras-packaging-guidance-documents-regulatory-information "Ingredients, Additives, GRAS & Packaging Guidance Documents & Regulatory Information")
+
+* * *
+
+## Submit Comments
+
+Submit comments on this guidance document electronically via docket ID: [FDA-2013-S-0610](https://www.regulations.gov/docket/FDA-2013-S-0610) \- Specific Electronic Submissions Intended For FDA's Dockets Management Staff (i.e., Citizen Petitions, Draft Proposed Guidance Documents, Variances, and other administrative record submissions)
+
+If unable to submit comments online, please mail written comments to:
+
+Dockets Management
+
+Food and Drug Administration
+
+5630 Fishers Lane, Rm 1061
+
+Rockville, MD 20852
+
+
+All comments should be identified with the title of the guidance.
+
+## Success
+
+Thank you. Your feedback has been received.
+
+
+## Error
+
+alert message
+
+
+Was this page helpful?
+\*
+
+Yes
+
+No
+
+Submit
+
+Feedback
+
+[Back to Top](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-color-additive-petitions-fda-recommendations-submission-chemical-and-technological)
+
+Help us improve FDA.gov!
+
+We will use your responses to improve the experience for millions of people who visit FDA.gov.
+
+
+
+A red asterisk (\*) indicates a required field.
+
+
+## Success
+
+Thank you. Your feedback has been received.
+
+
+## Error
+
+alert message
+
+
+1\. Which of the following best categorizes the information you were looking for on FDA.gov today?
+\*
+
+Select oneFoodDrugsMedical DevicesRadiation-Emitting ProductsVaccines, Blood & BiologicsAnimal & VeterinaryCosmeticsTobacco ProductsOther
+
+2\. Which of the following best describes the information you were looking for on FDA.gov today?
+\*
+
+Select oneRecall or foodborne illness outbreak informationWarning letters or enforcement actionsReport a problem (adverse event) with a productDispose of drugs or sharpsProduct approvalsDrug labelsSide effects of a productContact an FDA office or staff memberComplete or check registration for a product or facilityGet FDA organizational informationImport or export a product (including Prior Notice)Get a job with FDAGet trainingGet a formComment on a proposed guidance or ruleCheck a regulation, rule, or guidance (for regulated industry)COVID-19 informationAdvice/information about a medical device, drug, food, or other FDA-regulated productOther
+
+3\. Did you find the information you were looking for on FDA.gov today?
+\*
+
+Yes
+
+Partially. I found some of the information I was looking for.
+
+No
+
+I'm still looking
+
+4\. For this visit to the FDA site, which of the following roles best describes you? If you are a consultant or an attorney, please select the role of the individual or organization that you represent.
+\*
+
+Select oneConsumer, patient, or patient’s caregiverRegulated industry or businessHealthcare professional (includes physician, nurse, physician’s assistant, nurse practitioner, or pharmacist)Public health/Policy professionalScientist, researcherEducator, professor, teacher, or studentMedia/JournalistFDA Employee/ContractorsOther
+
+5\. How frequently do you visit FDA.gov?
+\*
+
+This is my first time
+
+About once a year
+
+A couple of times a year
+
+Monthly
+
+Weekly
+
+Daily
+
+6\. On a scale from 0-10, based on your experience today, how likely are you to recommend this website to a friend or colleague?
+\*
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+7) Overall, how satisfied or dissatisfied were you with your experience on the FDA website today?
+
+Navigation
+\*
+
+Very satisfied
+
+Somewhat satisfied
+
+Neither satisfied or dissatisfied
+
+Somewhat dissatisfied
+
+Very dissatisfied
+
+Look & Feel
+\*
+
+Very satisfied
+
+Somewhat satisfied
+
+Neither satisfied or dissatisfied
+
+Somewhat dissatisfied
+
+Very dissatisfied
+
+Using FDA’s search feature
+\*
+
+Very satisfied
+
+Somewhat satisfied
+
+Neither satisfied or dissatisfied
+
+Somewhat dissatisfied
+
+Very dissatisfied
+
+Understandability of the content
+\*
+
+Very satisfied
+
+Somewhat satisfied
+
+Neither satisfied or dissatisfied
+
+Somewhat dissatisfied
+
+Very dissatisfied
+
+Overall Experience
+\*
+
+Very satisfied
+
+Somewhat satisfied
+
+Neither satisfied or dissatisfied
+
+Somewhat dissatisfied
+
+Very dissatisfied
+
+Submit

@@ -1,0 +1,15 @@
+Run,CE_ml_per_100ml,GE_ml_per_100ml,HS_ml_per_100ml,Total_Phenol_ug_GAE_per_ml,DPPH_inhibition_pct,Anthocyanin_mg_per_L,Flavonoid_mg_per_100ml,VitaminC_mg_per_100ml,Notes
+S1,0.66,0.66,0.66,,,,,,"Center point"
+S2,1.00,0.00,1.00,,,,,"70.40","High VitC"
+S3,1.00,1.00,0.00,"132.11",,"4.11",,"35.20","Min TP; Min Anth; Min VitC"
+S4,0.00,1.00,1.00,"170.90",,,"66.00","67.23","Max TP; Min Flav; High VitC"
+S5,0.83,0.83,0.34,,"76.09",,,,Min DPPH
+S6,0.00,1.00,1.00,,,,,,"Replicate of S4"
+S7,1.00,0.50,0.50,,,,"97.83",,"Max Flav"
+S8,0.66,0.66,0.66,,,,,,"Replicate of S1"
+S9,0.83,0.34,0.83,,"85.11","8.56",,,"Max Anth; DPPH=85.11+/-0.97"
+S10,0.50,0.50,1.00,"166.82","86.75","7.87","83.25","57.09","Optimal formulation; Table 7 predicted"
+S11,1.00,1.00,0.00,,,,,,"Replicate of S3"
+S12,0.34,0.83,0.83,,"83.19",,,,DPPH=83.19+/-1.21
+S13,1.00,0.00,1.00,,,,,,"Replicate of S2"
+S14,0.50,1.00,0.50,,"90.84",,,,Max DPPH

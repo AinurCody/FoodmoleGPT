@@ -1,0 +1,10 @@
+{
+  "pubmed_total": 167244,
+  "pubmed_doi_found": 166573,
+  "pubmed_doi_missing": 671,
+  "removed_by_doi": 55155,
+  "removed_by_title": 9,
+  "pubmed_unique_kept": 112080,
+  "openalex_fulltext": 135473,
+  "combined_before_minhash": 247553
+}

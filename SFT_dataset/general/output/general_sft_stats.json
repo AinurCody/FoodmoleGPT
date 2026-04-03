@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-03-08T17:05:06.063746",
+  "total": 23856,
+  "source_distribution": {
+    "orca": 9953,
+    "smoltalk": 13903
+  },
+  "seed": 42
+}

@@ -1,0 +1,18 @@
+You are a food science expert. Below is a list of {N} candidate functional beverage formulations. Each formulation contains three plant extract components:
+- CE (Cardamom Essential oil, ml/100ml)
+- GE (Ginger Extract, ml/100ml)
+- HS (Hibiscus Solution, ml/100ml)
+
+The three components satisfy the constraint: CE + GE + HS = 2.0 ml/100ml.
+
+Candidate formulations:
+{candidate_table}
+
+The goal is to maximize DPPH free radical scavenging activity (antioxidant activity, measured as % inhibition).
+
+Please select the {k} formulations that are most worth testing first, and briefly explain your reasoning. Consider:
+- The known antioxidant activity contributions of each component in the literature
+- Possible synergistic or antagonistic effects between components
+- Common effective concentration ranges in functional beverage research
+
+Output ONLY valid JSON: {{"selected": [list of candidate index numbers], "reasoning": "brief explanation"}}

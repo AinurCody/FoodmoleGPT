@@ -1,0 +1,11 @@
+{
+  "articles_kept": 24479,
+  "articles_skipped": 6383335,
+  "tier_safe_title": 7027,
+  "tier_ambiguous_title": 807,
+  "tier_text_only": 16645,
+  "estimated_tokens": 18520035,
+  "target_tokens": 800000000,
+  "elapsed_seconds": 838.2,
+  "output_cpt": "/Users/cody/Workspace/FoodmoleGPT/CPT_dataset/book/data/wiki_food_cpt.jsonl"
+}

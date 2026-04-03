@@ -1,0 +1,33 @@
+{
+  "sources": {
+    "essay_fulltext": {
+      "docs": 253569,
+      "estimated_tokens": 1843976625,
+      "file": "/Users/cody/Workspace/FoodmoleGPT/CPT_dataset/essay/Merged/combined_fulltext_deduped.jsonl"
+    },
+    "essay_abstract": {
+      "docs": 433362,
+      "estimated_tokens": 137654056,
+      "file": "/Users/cody/Workspace/FoodmoleGPT/CPT_dataset/essay/OpenAlex/abstract.jsonl"
+    },
+    "wiki_food": {
+      "docs": 24479,
+      "estimated_tokens": 18520035,
+      "file": "/Users/cody/Workspace/FoodmoleGPT/CPT_dataset/book/data/wiki_food_cpt.jsonl"
+    },
+    "fineweb_general": {
+      "docs": 1006172,
+      "estimated_tokens": 666719263,
+      "file": "/Users/cody/Workspace/FoodmoleGPT/CPT_dataset/general/data/fineweb2_general_cpt.jsonl"
+    }
+  },
+  "total_docs": 1717582,
+  "total_estimated_tokens": 2666869979,
+  "domain_tokens": 2000150716,
+  "general_tokens": 666719263,
+  "general_ratio_target": 0.25,
+  "general_ratio_actual": 0.25,
+  "random_seed": 42,
+  "elapsed_seconds": 366.0,
+  "output_file": "/Users/cody/Workspace/FoodmoleGPT/CPT_dataset/total/cpt_corpus_merged.jsonl"
+}

@@ -1,0 +1,15 @@
+Run,CE_ml_per_100ml,GE_ml_per_100ml,HS_ml_per_100ml,DPPH_inhibition_pct,source
+S1,0.66,0.66,0.66,82.76,model_estimated
+S2,1.0,0.0,1.0,82.04,model_estimated
+S3,1.0,1.0,0.0,77.19,model_estimated
+S4,0.0,1.0,1.0,91.57,model_estimated
+S5,0.83,0.83,0.34,76.09,paper_reported
+S6,0.0,1.0,1.0,91.57,model_estimated
+S7,1.0,0.5,0.5,79.61,model_estimated
+S8,0.66,0.66,0.66,82.76,model_estimated
+S9,0.83,0.34,0.83,85.11,paper_reported
+S10,0.5,0.5,1.0,86.75,paper_reported
+S11,1.0,1.0,0.0,77.19,model_estimated
+S12,0.34,0.83,0.83,83.19,paper_reported
+S13,1.0,0.0,1.0,82.04,model_estimated
+S14,0.5,1.0,0.5,90.84,paper_reported

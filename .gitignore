@@ -1,26 +1,51 @@
-# =========== 1. 根目录白名单策略 ===========
-# 忽略根目录下的所有文件 (包括你的 PPT, 图片, 杂物)
+# ============================================
+# FoodmoleGPT — Whitelist .gitignore
+# Only tracked: CPT_dataset, SFT_dataset, RAG, LLM_BO
+# ============================================
+
+# Ignore everything at root level
 /*
 
-# 但是！不要忽略 .gitignore 及其自身 (必须放行)
+# ---- Root files to track ----
 !/.gitignore
+!/README.md
+!/TRAINING_REPORT.md
 
-# 但是！不要忽略 PubMed 这个文件夹 (关键改动)
-!/PubMed/
+# ---- Directories to track ----
+!/CPT_dataset/
+!/SFT_dataset/
+!/RAG/
+!/LLM_BO/
 
-# =========== 2. PubMed 文件夹内部黑名单 ===========
-# 虽然放行了 PubMed 文件夹，但里面的某些文件要再次拉黑
+# ============================================
+# Global exclusions (apply within all tracked dirs)
+# ============================================
 
-# 屏蔽真实的隐私配置 (只传 template)
-/PubMed/config.py
+# OS / IDE / Python artifacts
+**/.DS_Store
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/.claude/
+**/*.pyc
+**/*.pyo
 
-# 屏蔽数据目录
-/PubMed/data/
+# Secrets & credentials
+**/.env
+**/config.py
 
-# 屏蔽缓存和日志
-/PubMed/__pycache__/
-/PubMed/logs/
-/PubMed/download.log
-/PubMed/download_progress.json
-*.pyc
-.DS_Store
+# Large data files (never commit)
+**/*.jsonl
+**/*.xml
+**/*.gz
+**/*.zip
+**/*.tar
+**/*.log
+**/nohup.out
+
+# ============================================
+# CPT_dataset — directory-specific exclusions
+# ============================================
+
+# PubMed raw data directory (189K+ XML files + large processed data)
+CPT_dataset/essay/PubMed/data/
+CPT_dataset/essay/PubMed/logs/

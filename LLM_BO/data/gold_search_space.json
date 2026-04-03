@@ -1,0 +1,12 @@
+{
+    "variables": {
+        "CE_ml_per_100ml": {"min": 0.0, "max": 1.0, "description": "Cardamom Essential oil (ml/100ml)"},
+        "GE_ml_per_100ml": {"min": 0.0, "max": 1.0, "description": "Ginger Extract (ml/100ml)"},
+        "HS_ml_per_100ml": {"min": 0.0, "max": 1.0, "description": "Hibiscus Solution (ml/100ml)"}
+    },
+    "constraint": "CE + GE + HS = 2.0 ml/100ml",
+    "objective": "DPPH_inhibition_pct",
+    "maximize": true,
+    "published_best": 90.84,
+    "source": "Sahraee et al. (2022), Food Sci Nutr, 10(7), 2245-2254. PMC9281929"
+}

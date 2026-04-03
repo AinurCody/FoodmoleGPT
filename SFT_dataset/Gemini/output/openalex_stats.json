@@ -1,0 +1,29 @@
+{
+  "model": "gemini-3.1-flash-lite-preview",
+  "concurrency": 10,
+  "qa_per_article": 5,
+  "target_pairs": 50000,
+  "started_at": "2026-03-07T22:42:58.928573",
+  "total_articles": 10000,
+  "processed": 10000,
+  "failed": 1,
+  "total_pairs": 49995,
+  "type_counts": {
+    "FACTUAL": 9765,
+    "MECHANISTIC": 10115,
+    "ANALYTICAL": 10070,
+    "METHODOLOGICAL": 9637,
+    "SYNTHESIS": 3708,
+    "APPLICATION": 6700
+  },
+  "errors": [
+    {
+      "id": "d9966d1b15bd3341b1856183df25c511",
+      "source": "openalex",
+      "title": "Title: A Multi-Site, International Audit of Malnutrition Risk and Energy and Pro"
+    }
+  ],
+  "finished_at": "2026-03-08T00:40:19.345433",
+  "elapsed_seconds": 7040.4,
+  "articles_per_hour": 5113.3
+}

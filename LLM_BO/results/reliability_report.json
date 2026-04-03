@@ -1,0 +1,61 @@
+{
+  "prior_hit_rate": {
+    "FoodmoleGPT": {
+      "top25_mean": 0.4444444444444444,
+      "top10_mean": 0.3333333333333333,
+      "hit_best_rate": 1.0,
+      "n_runs": 3
+    },
+    "Qwen3-base": {
+      "top25_mean": 0.5555555555555555,
+      "top10_mean": 0.3333333333333333,
+      "hit_best_rate": 0.0,
+      "n_runs": 3
+    },
+    "Gemini 3 Flash": {
+      "top25_mean": 0.4333333333333333,
+      "top10_mean": 0.36666666666666664,
+      "hit_best_rate": 0.4,
+      "n_runs": 5
+    }
+  },
+  "order_stability": {
+    "FoodmoleGPT": {
+      "mean_jaccard": 0.4666666666666666,
+      "stable_picks": [
+        55,
+        20,
+        40
+      ]
+    },
+    "Qwen3-base": {
+      "mean_jaccard": 0.4666666666666666,
+      "stable_picks": [
+        15,
+        27,
+        45
+      ]
+    },
+    "Gemini 3 Flash": {
+      "mean_jaccard": 0.3416666666666667,
+      "stable_picks": [
+        0
+      ]
+    }
+  },
+  "constraint_consistency": {
+    "FoodmoleGPT": {
+      "violation_rate": 0.0
+    },
+    "Qwen3-base": {
+      "violation_rate": 0.0
+    },
+    "Gemini 3 Flash": {
+      "violation_rate": 0.2
+    }
+  },
+  "fallback": {
+    "threshold": 2,
+    "source": "gemini"
+  }
+}

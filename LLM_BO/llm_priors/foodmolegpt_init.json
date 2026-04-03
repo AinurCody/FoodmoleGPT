@@ -1,0 +1,39 @@
+{
+  "model": "foodmolegpt",
+  "k": 3,
+  "n_candidates": 66,
+  "temperature": 0.3,
+  "n_runs": 3,
+  "selected": [
+    55,
+    20,
+    40
+  ],
+  "reasoning": "These three formulations span the full range of component proportions and represent the corners and center of the design space. Candidate #55 (CE=1.00, GE=0.00, HS=1.00) tests the maximum concentration of cardamom essential oil and full hibiscus, isolating its potential contribution. Candidate #20 (CE=0.50, GE=1.00, HS=0.50) balances all three at mid-levels, a common starting point for synergy screening. Candidate #40 (CE=0.80, GE=0.50, HS=0.70) provides a balanced yet distinct ratio that explores middle-range interactions. Together they cover high-low, balanced, and reverse-high-low regions, allowing rapid assessment of additive and potential synergistic effects on DPPH scavenging activity.",
+  "all_runs": [
+    {
+      "selected": [
+        55,
+        20,
+        40
+      ],
+      "reasoning": "These three formulations span the full range of component proportions and represent the corners and center of the design space. Candidate #55 (CE=1.00, GE=0.00, HS=1.00) tests the maximum concentration of cardamom essential oil and full hibiscus, isolating its potential contribution. Candidate #20 (CE=0.50, GE=1.00, HS=0.50) balances all three at mid-levels, a common starting point for synergy screening. Candidate #40 (CE=0.80, GE=0.50, HS=0.70) provides a balanced yet distinct ratio that explores middle-range interactions. Together they cover high-low, balanced, and reverse-high-low regions, allowing rapid assessment of additive and potential synergistic effects on DPPH scavenging activity."
+    },
+    {
+      "selected": [
+        0,
+        20,
+        45
+      ],
+      "reasoning": "Formulation #0 (CE=0.00, GE=1.00, HS=1.00) provides the highest total volume of the three extracts and is a common baseline in literature; formulation #20 (CE=0.50, GE=1.00, HS=0.50) balances the three components symmetrically and often yields robust synergistic DPPH inhibition; formulation #45 (CE=0.90, GE=0.10, HS=1.00) tests the high-CE corner of the design space, which may reveal concentration-dependent antagonism or potentiation"
+    },
+    {
+      "selected": [
+        55,
+        20,
+        40
+      ],
+      "reasoning": "These three formulations span the full range of CE and HS values while keeping GE at moderate levels, allowing for testing synergistic combinations across the design space. Formulation #55 (CE=1.00, GE=0.00, HS=1.00) provides maximum HS concentration with no GE interference, potentially revealing the strongest Hibiscus contribution. Formulation #20 (CE=0.50, GE=1.00, HS=0.50) balances all three components and is consistent with typical functional beverage ratios reported in literature (0.3–0.7 mL/100 mL for each). Formulation #40 (CE=0.80, GE=0.50, HS=0.70) offers a high CE and moderate GE, which may trigger synergistic effects often observed in cardamom–ginger matrices. Together, these three candidates provide the broadest coverage of concentration space for initial screening."
+    }
+  ]
+}

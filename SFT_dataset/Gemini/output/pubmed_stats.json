@@ -1,0 +1,24 @@
+{
+  "model": "gemini-3.1-flash-lite-preview",
+  "concurrency": 10,
+  "qa_per_article": 5,
+  "target_pairs": 50000,
+  "started_at": "2026-03-07T22:43:04.103128",
+  "total_articles": 10000,
+  "processed": 10000,
+  "failed": 0,
+  "total_pairs": 50000,
+  "type_counts": {
+    "FACTUAL": 9735,
+    "MECHANISTIC": 10060,
+    "ANALYTICAL": 10101,
+    "METHODOLOGICAL": 9678,
+    "SYNTHESIS": 3636,
+    "APPLICATION": 6789,
+    "METHODOLOGIC": 1
+  },
+  "errors": [],
+  "finished_at": "2026-03-08T00:42:49.972080",
+  "elapsed_seconds": 7185.9,
+  "articles_per_hour": 5009.8
+}

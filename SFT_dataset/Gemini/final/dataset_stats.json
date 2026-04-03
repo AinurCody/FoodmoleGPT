@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-03-08T10:21:09.827032",
+  "raw_total": 99995,
+  "after_exact_dedup": 99960,
+  "after_quality_filter": 99960,
+  "after_near_dedup": 99756,
+  "final_count": 99756,
+  "exact_duplicates_removed": 35,
+  "quality_filtered": 0,
+  "near_duplicates_removed": 204,
+  "similarity_threshold": 0.8,
+  "type_distribution": {
+    "ANALYTICAL": 20159,
+    "MECHANISTIC": 20141,
+    "FACTUAL": 19472,
+    "METHODOLOGICAL": 19161,
+    "APPLICATION": 13479,
+    "SYNTHESIS": 7344
+  },
+  "source_distribution": {
+    "openalex": 49867,
+    "pubmed": 49889
+  },
+  "filter_details": {}
+}

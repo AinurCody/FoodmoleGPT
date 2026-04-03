@@ -1,0 +1,22 @@
+{
+  "input_count": 99756,
+  "kept_count": 92546,
+  "removed_count": 7210,
+  "removal_rate": "7.23%",
+  "removed_by_source": {
+    "openalex": 4289,
+    "pubmed": 2921
+  },
+  "kept_type_distribution": {
+    "MECHANISTIC": 18858,
+    "ANALYTICAL": 18621,
+    "FACTUAL": 17982,
+    "METHODOLOGICAL": 17168,
+    "APPLICATION": 13003,
+    "SYNTHESIS": 6914
+  },
+  "kept_source_distribution": {
+    "openalex": 45578,
+    "pubmed": 46968
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "docs_scanned": 67251850,
+  "docs_kept": 1208739,
+  "skipped_short": 6663040,
+  "skipped_long": 163120,
+  "skipped_sample": 59216951,
+  "sample_rate": 50,
+  "estimated_tokens": 800000317,
+  "target_tokens": 800000000,
+  "elapsed_seconds": 8441.2,
+  "output_cpt": "/Users/cody/Workspace/FoodmoleGPT/CPT_dataset/general/data/fineweb2_general_cpt.jsonl"
+}
