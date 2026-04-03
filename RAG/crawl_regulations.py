@@ -10,10 +10,14 @@ import time
 import hashlib
 from pathlib import Path
 from datetime import datetime
+from dotenv import load_dotenv
 from firecrawl import FirecrawlApp
 
 # ── Config ────────────────────────────────────────────────────────────────────
-API_KEY = "***REMOVED***"
+load_dotenv()
+API_KEY = os.getenv("FIRECRAWL_API_KEY", "")
+if not API_KEY:
+    raise RuntimeError("FIRECRAWL_API_KEY not set. Add it to .env or export it.")
 OUTPUT_DIR = Path(__file__).parent
 SCRAPE_OPTS = {"formats": ["markdown"]}
 DELAY = 2  # seconds between requests to stay under rate limits

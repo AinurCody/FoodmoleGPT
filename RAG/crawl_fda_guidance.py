@@ -17,10 +17,14 @@ from datetime import datetime
 from html.parser import HTMLParser
 
 import requests
+from dotenv import load_dotenv
 from firecrawl import FirecrawlApp
 
 # ── Config ──────────────────────────────────────────────────────────────
-API_KEY = "***REMOVED***"
+load_dotenv()
+API_KEY = os.getenv("FIRECRAWL_API_KEY", "")
+if not API_KEY:
+    raise RuntimeError("FIRECRAWL_API_KEY not set. Add it to .env or export it.")
 INDEX_URL = "https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/guidance-documents-regulatory-information-topic-food-and-dietary-supplements"
 URL_LIST = Path(__file__).parent / "fda_guidance_urls.json"
 OUT_DIR = Path(__file__).parent / "fda_guidance"
