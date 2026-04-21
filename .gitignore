@@ -51,3 +51,10 @@
 # PubMed raw data directory (189K+ XML files + large processed data)
 CPT_dataset/essay/PubMed/data/
 CPT_dataset/essay/PubMed/logs/
+
+# ============================================
+# SFT_dataset — directory-specific exclusions
+# ============================================
+
+# Claude SFT generation infrastructure — keep local only, never upload
+SFT_dataset/Claude/
